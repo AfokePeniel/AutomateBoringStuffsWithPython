@@ -21,7 +21,7 @@ The book introduces Python basics and shows how to apply them to real-world task
 
 ## 🖼️ Book Cover
 
-![Automate the Boring Stuff with Python](https://automatetheboringstuff.com/images/automate2_cover.png)
+![Automate the Boring Stuff with Python](images/automate_cover.png)
 
 ---
 
@@ -39,5 +39,10 @@ The book introduces Python basics and shows how to apply them to real-world task
 
 ---
 
-✍🏽 *Author of this repository*: **Afoke Peniel Oghenekowho**  
+## 🚧 Work in Progress
+This repository is a **work in progress** as I go through each chapter of the book.  
+Stay tuned for updates as I complete more exercises and add new content.  
 
+---
+
+✍🏽 *Author of this repository*: **Afoke Peniel Oghenekowho**  
